@@ -86,6 +86,12 @@ https://stream.ottplus.bd/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Bantul_The_Great_logo.jpeg/250px-Bantul_The_Great_logo.jpeg",Batul The Great
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Sony_BBC_Earth.png/120px-Sony_BBC_Earth.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" ,BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://pro-torongoplus.vercel.app/
+#EXTVLCOPT:http-header=Origin: https://pro-torongoplus.vercel.app
+https://tv.nurmd2006-official.workers.dev/live/bbc_earth_hd_abr/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/250px-Discovery_Channel_-_Logo_2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" ,Discovery Hindi
 https://stream.ottplus.bd/live/discovery_sd_abr/live/discovery_sd/chunks.m3u8
 
